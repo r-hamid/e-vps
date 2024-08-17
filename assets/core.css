@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+.page-bg {
+  background-color: #F9F8F6;
+}
+
+.progress-section {
+  background-color: #E6E6E6;
+}
+
+.custom-progress {
+  background-color: transparent !important;
+  height: 10px !important;
+}
+
+.custom-progress .progress-bar {
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+
+i {
+  -webkit-text-stroke: 4px;
+}
